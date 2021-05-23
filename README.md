@@ -5,7 +5,7 @@ My contributions to this project included creating a custom dataset for our haza
 
 ## Contibuters:
 
-Samuel Hicks - Team Leader/Ai Engine Subsystem & Mobile App Subsystem
+Samuel Hicks - Team Leader/AI Engine Subsystem & Mobile App Subsystem
 
 Roods Jacques - Mobile App Subsystem
 
